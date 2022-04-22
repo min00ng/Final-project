@@ -14,6 +14,22 @@
 
 ​	소비자의 성향이 세분화 되고 다양해짐에 따라서 맞춤 서비스가 트렌드(niche marketing)로 떠오르고 있다. 이	에 따라 소비자의 카드 소비 성향을 분석하여 어느 분야에서 돈을 가장 많이 지출하는지 파악하여 소비자에게 맞	는 카드를 제안하는 서비스를 구축한다.
 
+- 데이터 수집
+
+  [카드 고릴라 데이터](https://www.card-gorilla.com/home) 크롤링
+
+- 데이터 분석
+
+  EDA
+
+  클러스터링
+
+  머신러닝을 통한 예측
+
+- 데이터 시각화
+
+  Tableau
+
 - 아이디어
 
   만약 우리가 [룰루레몬](https://www.lululemon.co.kr/ko-kr/c/womens-golf-clothes?CID=ps_sem_google_123121445641_kwd-297294281271_c_b_507052057636___골프웨어&gclid=Cj0KCQjwgYSTBhDKARIsAB8KuksHMa9E3S-7bcTs-Vx-p6rP_0JOipNA_mRHGO2nE3eJZgsTerRXwgUaAqB_EALw_wcB)의 마케팅 팀이라면, 골프 산업에 대한 트렌드를 분석하여 최근 유입되고 있는 2030 골린이들을 위한 마케팅 전략 제안이 필요해 보인다. 클러스터링을 통해 소비자 분류를 한 후 골프 활성화 고객, 골프 신규 고객, 2030 을 분류하여 맞춤 제품을 추천하는 방향, 카드 추천도 함께 이루어지면 좋을 것 같다.
@@ -40,7 +56,7 @@
 
   
 
-  
+- 아이디어
 
   
 
