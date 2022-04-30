@@ -118,7 +118,7 @@ for i in naver_urls:
     #print(html)
     
     #뉴스 제목 가져오기
-    title = html.select("div.content > div.article_header > div.article_info > h3")
+    title = html.select("div.media_end_head_title > h2")
     # list합치기
     title = ''.join(str(title))
     # html태그제거
@@ -128,7 +128,7 @@ for i in naver_urls:
 
     #뉴스 본문 가져오기
 
-    content = html.select("div.content > div#articleBody > div#articleBodyContents")
+    content = html.select("div.newsct_article")
 
     # 기사 텍스트만 가져오기
     # list합치기
